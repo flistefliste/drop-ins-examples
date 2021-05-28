@@ -1,0 +1,10 @@
+parent: classic-rocket
+name: lescude
+display-name: Lescude
+version: 1.0.0
+author:
+  name: "Agence A"
+  email: "contact@agence-a.fr"
+  url: "https://agence-a.fr"
+assets:
+    use_parent_assets: false
